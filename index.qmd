@@ -2,6 +2,8 @@
 title: "Portfolio"
 ---
 
+<div>
+
 ## **Revenue Growth Model \|** ![](images/excel.svg)
 
 > ### **Business Analysis for Lariat Rent-A-Car**
@@ -19,3 +21,37 @@ title: "Portfolio"
 > | [<img src="images/filetype-xlsx.svg" width="54px"/>](https://1drv.ms/x/s!Ahpkb3AfX4xfgsA0TbaqsDQorD8vKA?e=vEQXVr) | [<img src="images/filetype-pptx.svg" width="54px"/>](https://1drv.ms/p/s!Ahpkb3AfX4xfgsAztt7OBQG6rwSqYg?e=HYOXor) | [<img src="images/github.svg" width="45px"/>](https://github.com/bradfordjohnson/thinkful/tree/main/capstone-1) |
 
 ------------------------------------------------------------------------
+
+</div>
+
+<div class="card border-primary mb-3" style="max-width: 100rem;">
+
+::: card-header
+# <b>Revenue Growth Model \|</b> <img src="images/excel.svg" width="100"/>
+:::
+
+::: card-body
+<b>Business Analysis for Lariat Rent-A-Car</b>
+
+<blockquote>
+
+<ul>
+
+<li>Examined and cleaned historical sales data using Excel (VLookUp, pivot tables and t-tests)</li>
+
+<li>Facilitated exploratory data analysis and assessed by KPI performance.</li>
+
+<li>Developed and presented models that showcased a 40% increase in profits.</li>
+
+</ul>
+
+</blockquote>
+
+<br>
+
+<center><i>Click the icons below to see the project files and deliverables</i></center>
+
+|                                                   Excel                                                    |                                                 PowerPoint                                                 |                                                  ReadMe                                                  |
+|:----------------------:|:----------------------:|:----------------------:|
+| [![](images/filetype-xlsx.svg){width="54px"}](https://1drv.ms/x/s!Ahpkb3AfX4xfgsA0TbaqsDQorD8vKA?e=vEQXVr) | [![](images/filetype-pptx.svg){width="54px"}](https://1drv.ms/p/s!Ahpkb3AfX4xfgsAztt7OBQG6rwSqYg?e=HYOXor) | [![](images/github.svg){width="45px"}](https://github.com/bradfordjohnson/thinkful/tree/main/capstone-1) |
+:::
