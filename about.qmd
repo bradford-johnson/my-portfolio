@@ -13,9 +13,15 @@ about:
     - icon: stars
       text: Tableau
       href: "https://public.tableau.com/app/profile/bradfordjohnson"
+    - icon: envelope
+      text: Email
+      href: "mailto:bradfordljohnson@outlook.com"
     - icon: filetype-pdf
       text: Resume
       href: "https://1drv.ms/b/s!Ahpkb3AfX4xfg992ZlYBuvcWItFqdA?e=nDhWYC"
+    - icon: "link-45deg"
+      text: Kaggle
+      href: "https://www.kaggle.com/bradfordjohnson"
 ---
 
 ## About me:
@@ -29,3 +35,17 @@ about:
 -   I am currently enrolled in Thinkful's data analytics bootcamp, and I will complete it in December 2022.
 
 -   I enjoy meeting new people, if you want to get to know more about myself or my work, reach out!
+
+## Toolbox:
+
+-   R
+
+-   SQL
+
+-   Tableau
+
+-   Excel
+
+-   Quarto
+
+-   GitHub
