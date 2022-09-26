@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Bradford Johnson"
+  navbar:
+    left:
+      - href: index.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: Flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+

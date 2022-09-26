@@ -1,0 +1,23 @@
+---
+title: "About Me"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/bradford-ford-johnson/
+    - icon: github
+      text: Github
+      href: https://github.com/bradfordjohnson/
+---
+
+-   I am passionate about working with data and solving problems with data.
+
+-   My background is in sociology, and I shifted into data analytics in late 2021.
+
+-   Self-taught R data analyst.
+
+-   I am currently enrolled in Thinkful's data analytics bootcamp, and I will complete it in December 2022.
+
+-   I enjoy meeting new people, if you want to get to know more about myself or my work, reach out!
