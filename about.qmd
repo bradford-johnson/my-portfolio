@@ -1,16 +1,24 @@
 ---
-title: "About Me"
+title: "Bradford Johnson"
 about:
   template: trestles
-  image: profile.jpg
+  image: "jamie-street-UtrE5DcgEyg-unsplash.jpg"
   links:
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/bradford-ford-johnson/
+      href: "www.linkedin.com/in/bradford-ford-johnson/"
     - icon: github
       text: Github
-      href: https://github.com/bradfordjohnson/
+      href: "https://github.com/bradfordjohnson/"
+    - icon: stars
+      text: Tableau
+      href: "https://public.tableau.com/app/profile/bradfordjohnson"
+    - icon: filetype-pdf
+      text: Resume
+      href: "https://1drv.ms/b/s!Ahpkb3AfX4xfg992ZlYBuvcWItFqdA?e=nDhWYC"
 ---
+
+## About me:
 
 -   I am passionate about working with data and solving problems with data.
 
