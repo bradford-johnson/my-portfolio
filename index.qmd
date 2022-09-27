@@ -4,9 +4,7 @@ title: "Portfolio"
 
 ::: {.card .border-primary .mb-3 style="max-width: 100rem;"}
 ::: card-header
-# <b>Twitter Analysis Project \|
-
-# </b> ![](images/rstudiobadge.svg) <b>+</b> ![](images/postgresql.svg) <b>+</b> ![](images/quarto.png){width="116"}
+# <b>Twitter Analysis Project \|</b> ![](images/rstudiobadge.svg) <b>+</b> ![](images/postgresql.svg) <b>+</b> ![](images/quarto.png){width="116"}
 :::
 
 ::: card-body
@@ -20,15 +18,7 @@ title: "Portfolio"
 
 <li>Generated and executed SQL queries to filter and join data.</li>
 
-<li>Cleaned and analyzed data, conducted a sentiment analysis and a word correlation analysis.</li>
-
-</ul>
-
-</blockquote>
-
-<br>
-
-<center><i>Click the icons below to see the project files and deliverables</i></center>
+<li>Cleaned and analyzed data, conducted a sentiment analysis and a word correlation analysis.</li></ul></blockquote><center><i>Click the icons below to see the project files and deliverables</i></center>
 
 |                                                  Analysis                                                   |                                                       ReadMe                                                       |
 |:-------------------------------------:|:-------------------------------:|
@@ -52,15 +42,7 @@ title: "Portfolio"
 
 <li>Facilitated exploratory data analysis and assessed by KPI performance.</li>
 
-<li>Developed and presented models that showcased a 40% increase in profits.</li>
-
-</ul>
-
-</blockquote>
-
-<br>
-
-<center><i>Click the icons below to see the project files and deliverables</i></center>
+<li>Developed and presented models that showcased a 40% increase in profits.</li></ul></blockquote><center><i>Click the icons below to see the project files and deliverables</i></center>
 
 |                                                   Excel                                                    |                                                 PowerPoint                                                 |                                                  ReadMe                                                  |
 |:----------------------:|:----------------------:|:----------------------:|
@@ -82,15 +64,7 @@ title: "Portfolio"
 
 <li>Developing a blog that shares vignettes of R, and these tutorials are tailored for people wanting to learn R.</li>
 
-<li>Implementing Quarto to create high quality documents and reports for sharing data.</li>
-
-</ul>
-
-</blockquote>
-
-<br>
-
-<center><i>Click the icons below to see the project files and deliverables</i></center>
+<li>Implementing Quarto to create high quality documents and reports for sharing data.</li></ul></blockquote><center><i>Click the icons below to see the project files and deliverables</i></center>
 
 |                                           Blog                                            |                                                ReadMe                                                 |
 |:--------------------------------:|:------------------------------------:|
