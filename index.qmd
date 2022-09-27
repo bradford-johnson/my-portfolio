@@ -4,6 +4,40 @@ title: "Portfolio"
 
 ::: {.card .border-primary .mb-3 style="max-width: 100rem;"}
 ::: card-header
+# <b>Twitter Analysis Project \|
+
+# </b> ![](images/rstudiobadge.svg) <b>+</b> ![](images/postgresql.svg) <b>+</b> ![](images/quarto.png){width="116"}
+:::
+
+::: card-body
+<b>Sentiment Analysis on 4 Different Topics on Twitter</b>
+
+<blockquote>
+
+<ul>
+
+<li>Collected Twitter data received from Twitter API, and stored this data within my own database using R, pgAdmin4, and postgreSQL.</li>
+
+<li>Generated and executed SQL queries to filter and join data.</li>
+
+<li>Cleaned and analyzed data, conducted a sentiment analysis and a word correlation analysis.</li>
+
+</ul>
+
+</blockquote>
+
+<br>
+
+<center><i>Click the icons below to see the project files and deliverables</i></center>
+
+|                                                  Analysis                                                   |                                                       ReadMe                                                       |
+|:-------------------------------------:|:-------------------------------:|
+| [![](images/journal-richtext.svg){width="54"}](https://bradfordjohnson.github.io/twitter-analysis-project/) | [![](images/github.svg){width="54"}](https://github.com/bradfordjohnson/twitter-analysis-project/blob/t/README.md) |
+:::
+:::
+
+::: {.card .border-primary .mb-3 style="max-width: 100rem;"}
+::: card-header
 # <b>Revenue Growth Model \|</b> <img src="images/excel.svg" width="100"/>
 :::
 
@@ -59,7 +93,7 @@ title: "Portfolio"
 <center><i>Click the icons below to see the project files and deliverables</i></center>
 
 |                                           Blog                                            |                                                ReadMe                                                 |
-|:----------------------------------:|:----------------------------------:|
+|:--------------------------------:|:------------------------------------:|
 | [![](images/journal-richtext.svg){width="45"}](https://bradfordjohnson.github.io/rblogr/) | [![](images/github.svg){width="45"}](https://github.com/bradfordjohnson/rblogr/blob/rblogr/README.md) |
 :::
 :::
