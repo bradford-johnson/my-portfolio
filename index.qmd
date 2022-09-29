@@ -27,7 +27,7 @@ title: "Portfolio"
 <center><i>Click the icons below to see the project files and deliverables</i></center>
 
 |                                                  Analysis                                                   |                                                       ReadMe                                                       |
-|:-------------------------------------:|:-------------------------------:|
+|:-----------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|
 | [![](images/journal-richtext.svg){width="54"}](https://bradfordjohnson.github.io/twitter-analysis-project/) | [![](images/github.svg){width="54"}](https://github.com/bradfordjohnson/twitter-analysis-project/blob/t/README.md) |
 :::
 :::
@@ -57,7 +57,7 @@ title: "Portfolio"
 <center><i>Click the icons below to see the project files and deliverables</i></center>
 
 |                                                   Excel                                                    |                                                 PowerPoint                                                 |                                                      ReadMe                                                      |
-|:----------------------:|:----------------------:|:----------------------:|
+|:----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
 | [![](images/filetype-xlsx.svg){width="54px"}](https://1drv.ms/x/s!Ahpkb3AfX4xfgsA0TbaqsDQorD8vKA?e=vEQXVr) | [![](images/filetype-pptx.svg){width="54px"}](https://1drv.ms/p/s!Ahpkb3AfX4xfgsAztt7OBQG6rwSqYg?e=HYOXor) | [![](images/github.svg){width="45"}](https://github.com/bradfordjohnson/thinkful/blob/main/capstone-1/README.md) |
 :::
 :::
@@ -85,7 +85,7 @@ title: "Portfolio"
 <center><i>Click the icons below to see the project files and deliverables</i></center>
 
 |                                           Blog                                            |                                                ReadMe                                                 |
-|:--------------------------------:|:------------------------------------:|
+|:-----------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|
 | [![](images/journal-richtext.svg){width="45"}](https://bradfordjohnson.github.io/rblogr/) | [![](images/github.svg){width="45"}](https://github.com/bradfordjohnson/rblogr/blob/rblogr/README.md) |
 :::
 :::
