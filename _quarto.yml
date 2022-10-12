@@ -3,12 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: ""
+  title: "Bradford Johnson"
   navbar:
     left:
       - href: index.qmd
       - about.qmd
-
 format:
   html:
     theme: Flatly
