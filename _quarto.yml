@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
       - about.qmd
+  page-footer:
+    right: "This portfolio is built with ❤️ and [Quarto](https://quarto.org/)."
 format:
   html:
     theme: Flatly
